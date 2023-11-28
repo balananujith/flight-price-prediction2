@@ -53,7 +53,7 @@ Download the dataset for custom training.
 ```bash
 $ pip install -r requirements.txt
 
-## 👨‍💻 To Run the Application
+## **👨‍💻 To Run the Application **
 
 To run the flight price prediction application, follow these steps:
 
