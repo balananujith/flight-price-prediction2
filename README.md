@@ -34,6 +34,8 @@ In this project, the RandomForestRegressor is employed for predicting ticket pri
 
 Download the dataset for custom training.
 
+Data Train: https://github.com/balananujith/flight-price-prediction2/blob/master/Data_Train.xlsx
+
 # 🖥️ Installation
 
 ## 🛠️ Requirements
