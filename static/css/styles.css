@@ -139,10 +139,6 @@ form {
 
 /* Style for the second parallax section */
 .parallax-section-2 {
-    background-image: url('https://media.istockphoto.com/id/540987902/photo/airasia-airways-airplane-landing-at-phuket-after-rain-stop.jpg?s=612x612&w=0&k=20&c=sg7HoV9Gx6qE17fpWWPAU0Idevo2_l5yNxEyPw56KJE='); /* Add your second image URL */
+    background-image: url('https://wallpapers.com/images/featured/airplane-4k-bu4x1hj15439eul8.jpg'); /* Add your second image URL */
 }
 
-/* Style for the third parallax section */
-.parallax-section-3 {
-    background-image: url('https://example.com/third-image.jpg'); /* Add your third image URL */
-}
