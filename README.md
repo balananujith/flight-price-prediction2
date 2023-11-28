@@ -55,7 +55,6 @@ There are two dataset for the model:-
 **Install Python:** Download from [here](https://www.python.org/downloads/)
 
 **Install required modules:**
-```bash
 $ pip install -r requirements.txt
 
 ## **👨‍💻 To Run the Application **
