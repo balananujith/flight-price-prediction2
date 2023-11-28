@@ -12,9 +12,9 @@ When it comes to buying airline tickets, the traditional advice is to secure the
 Dynamic Pricing Factors: The determination of flight ticket prices involves a complex interplay of observable factors like holiday schedules and seat availability, alongside undisclosed variables known only to the airlines.
 **Algorithmic Decision-Making**: The central challenge lies in developing algorithms that can analyze both historical and current flight prices for a specific departure date, enabling travelers to make informed decisions about when to make their ticket purchases.
 
-**🧑‍💻 🧑‍🎓 User Interface**
+#**🧑‍💻 🧑‍🎓 User Interface**
 
-**App Functionality**
+##**App Functionality**
 
 **Fare Prediction:** This repository focuses on predicting flight ticket prices, offering users the ability to estimate fare costs based on input travel details like dates, cities, stopovers, and airline choice.
 
@@ -35,25 +35,25 @@ Dynamic Pricing Factors: The determination of flight ticket prices involves a co
 
 **Integration Possibilities:** Depending on scope, there may be opportunities for integration with other travel-related applications or services, enriching the overall travel planning experience for users.
 
-**📝Description**
+#**📝Description**
 In this project we have used RandomForestRegressor for predicting the ticket price.
 
-**⏳ Dataset**
+#**⏳ Dataset**
 Download the dataset for custom training
 
-**🖥️ Installation**
-**🛠️ Requirements**
+#**🖥️ Installation**
+##**🛠️ Requirements**
               Python 3.5+
               numpy
               pandas
               sklearn
               flask
               joblib
-**⚙️ Setup**
+#**⚙️ Setup**
 **Install Python:-** Download from here
 **Install required modules:-**
 $ pip install -r requirements.txt
-**👨‍💻 To run**
+#**👨‍💻 To run**
 $ python app.py
 
 
