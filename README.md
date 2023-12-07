@@ -65,4 +65,4 @@ $ python app.py
 
 
 # Project Live Demo Video
-[Video](https://drive.google.com/file/d/13I-5GBvNfklVhT_vxPZ71VJFgCFY4NNL/view?usp=drive_link)
+Click here: [Video](https://drive.google.com/file/d/13I-5GBvNfklVhT_vxPZ71VJFgCFY4NNL/view?usp=drive_link)
